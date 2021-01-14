@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "Game Design as Play Design"
+email: beilj282@newschool.edu
+description: "Site for Parsons Game Design as Play Design."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gamedesignasplaydesign.github.io"
+
+header_pages:
+  - syllabus.md
+  - week01.md # classes dropdown
+  - resources.md
+  # projects dropdown
+
+# Build settings
+# markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-sitemap
+# exclude:
+#   - TODO.md
+#   - README.md
