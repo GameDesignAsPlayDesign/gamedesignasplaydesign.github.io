@@ -15,7 +15,7 @@ url: "https://gamedesignasplaydesign.github.io"
 header_pages:
   # - syllabus.md
   # - week01.md # classes dropdown
-  # - resources.md
+  - resources.md
   # projects dropdown
 
 # Build settings
