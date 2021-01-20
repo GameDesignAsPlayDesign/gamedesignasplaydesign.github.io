@@ -13,9 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gamedesignasplaydesign.github.io"
 
 header_pages:
-  - syllabus.md
-  - week01.md # classes dropdown
-  - resources.md
+  # - syllabus.md
+  # - week01.md # classes dropdown
+  # - resources.md
   # projects dropdown
 
 # Build settings
