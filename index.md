@@ -11,7 +11,8 @@ Spring 2021, January 20 &#x2013; May 05, Wednesdays 9AM-11:40AM EST
 
 ### Instructors
 
-[Jonathan Beilin](https://jonbeilin.com){:target="\_blank"} [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)
+[Jonathan Beilin](https://jonbeilin.com){:target="\_blank"} [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)  
+TA: [Allie Xiao](https://alliexiao.squarespace.com/)(https://jonbeilin.com){:target="\_blank"} [(xiaos157@newschool.edu)](mailto:xiaos157@newschool.edu)
 
 ### Schedule
 
@@ -19,7 +20,7 @@ _Abbreviations: GDP (Games, Design, and Play); RoP (Rules of Play)_
 
 | Date | Class Summary | Journal | Homework |
 | --- | --- | --- | --- |
-| Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements](https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing){:target="\_blank"} _Activity:_ Game Analysis | [Game Elements; Game Design Tools](https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954){:target="\_blank"} | Read GDP Ch. 2 (link forthcoming) |
+| Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements](https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing){:target="\_blank"} _Activity:_ Game Analysis | [Game Elements; Game Design Tools](https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954){:target="\_blank"} | [Read GDP Ch. 2, part 1](https://docs.google.com/presentation/d/1-eAVr5bwAtsD0m29OMCvBXiLKUIH8Uc64Mppg9TIWCI/edit?usp=sharing){:target="\_blank"} |
 
 ### Course Description
 
