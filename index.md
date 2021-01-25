@@ -2,17 +2,23 @@
 layout: home
 title: "Overview"
 permalink: "/"
+gdp1: https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing
+gdp2_1: https://docs.google.com/presentation/d/1-eAVr5bwAtsD0m29OMCvBXiLKUIH8Uc64Mppg9TIWCI/edit?usp=sharing
+# gdp2_2:
+journal1: https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954
+# journal2:
 ---
 
 **Games Design as Play Design**  
 _Parsons School of Design_  
 Spring 2021, January 20 &#x2013; May 05, Wednesdays 9AM-11:40AM EST  
-**[Zoom Link](https://NewSchool.zoom.us/j/92826715381?pwd=aURxR05sT0FlLzFqcFhRU1ViTkRXQT09){:target="\_blank"}**
+**[Zoom Link](https://NewSchool.zoom.us/j/92826715381?pwd=aURxR05sT0FlLzFqcFhRU1ViTkRXQT09){:target="\_blank"}**  
+**[Slack Link](https://join.slack.com/t/gamesdesignplay2021sp/shared_invite/zt-lcoi05k3-7A~9lQ_oZNVbKWU3fhc6lg){:target="\_blank"}**
 
 ### Instructors
 
 [Jonathan Beilin](https://jonbeilin.com){:target="\_blank"} [(jon.beilin@newschool.edu)](mailto:jon.beilin@newschool.edu)  
-TA: [Allie Xiao](https://alliexiao.squarespace.com/)(https://jonbeilin.com){:target="\_blank"} [(xiaos157@newschool.edu)](mailto:xiaos157@newschool.edu)
+TA: [Allie Xiao](https://alliexiao.squarespace.com/){:target="\_blank"} [(xiaos157@newschool.edu)](mailto:xiaos157@newschool.edu)
 
 ### Schedule
 
@@ -20,7 +26,22 @@ _Abbreviations: GDP (Games, Design, and Play); RoP (Rules of Play)_
 
 | Date | Class Summary | Journal | Homework |
 | --- | --- | --- | --- |
-| Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements](https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing){:target="\_blank"} _Activity:_ Game Analysis | [Game Elements; Game Design Tools](https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954){:target="\_blank"} | [Read GDP Ch. 2, part 1](https://docs.google.com/presentation/d/1-eAVr5bwAtsD0m29OMCvBXiLKUIH8Uc64Mppg9TIWCI/edit?usp=sharing){:target="\_blank"} |
+| Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements]({{page.gdp1}})<br/>_Activity:_ Game Analysis | [Game Elements; Game Design Tools]({{page.journal1}}) | [Read GDP Ch. 2, part 1]({{page.gdp2_1}}) |
+| Jan 27 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | What if #1 | Read GDP Ch. 2, part 2 |
+| Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | What if #2 | Read GDP Ch. 3 |
+| Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/>_Activity:_ Game Remix Playtest | Action Theory Analysis | Read GDP Ch. 4 |
+| Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | What if #3 | Homework |
+| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | What if #4 | Game #1 Part I |
+| March 03 | _Discussion:_ GDP Ch 7 - Documenting Your Design, Ch. 9 - Conceptualizing Your Game, Ch. 10 - Prototyping Your Game | Favorite Game | Game #1 Part II |
+| March 10 | _Activity:_ Present game proposals | Reflect on Feedback | Game #1 Part III |
+| March 17 | Spring Break | - | - |
+| March 24 | _Discussion:_ GDP Chs 11 - Playtesting Your Game; Ch. 12 - Evaluating Your Game<br/>_Activity:_ Playtest | Reflect on Playtest | Game #1 Part IV |
+| March 31 | _Discussion:_ GDP Ch. 13 - Design to Production Case Studies | New Game | Game #2 Part I |
+| April 07 | _Activity:_ Meetings | Precedent/Influence | Game #2 Part II |
+| April 14 | _Activity:_ Present game proposal | Precedent/Influence | Game #2 Part III; schedule playtest between 4/23-4/29 |
+| April 21 | _Activity:_ Prototype Playtest | Reflect on Playtest | Game#2 Part IV |
+| April 28 | _Activity:_ Individual Meetings | Reflect on Playtest | Document game, playtests, and iterations |
+| May 05 | _Activity:_ Present game & playtest reports | :) | :) |
 
 ### Course Description
 

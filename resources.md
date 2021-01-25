@@ -6,7 +6,9 @@ permalink: /resources/
 
 ## Reading
 
-## Bonus Reading
+The class reading is available [online](https://drive.google.com/drive/folders/1cqkzCECAM-h47x_FZnYKgNeoZpVxOQjg?usp=sharing){:target="\_blank"}.
+
+### Bonus Reading
 
 [Friedman, Ken: The Fluxus Workbook](https://www.dropbox.com/s/ito5xd0gbf6iyr3/Friedman%2C%20Ken%20The%20Fluxus%20Workbook.pdf?dl=0){:target="\_blank"}
 
