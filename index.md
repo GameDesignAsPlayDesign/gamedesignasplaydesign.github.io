@@ -4,9 +4,9 @@ title: "Overview"
 permalink: "/"
 gdp1: https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing
 gdp2_1: https://docs.google.com/presentation/d/1-eAVr5bwAtsD0m29OMCvBXiLKUIH8Uc64Mppg9TIWCI/edit?usp=sharing
-# gdp2_2:
+gdp2_2: https://docs.google.com/presentation/d/13VKPplvED1UNX8htx5PvM-1zKF0hvfjIkCYQpJ3cFq0/edit?usp=sharing
 journal1: https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954
-# journal2:
+journal2: https://canvas.newschool.edu/courses/1552499/discussion_topics/6534236
 ---
 
 **Games Design as Play Design**  
@@ -27,7 +27,7 @@ _Abbreviations: GDP (Games, Design, and Play); RoP (Rules of Play)_
 | Date | Class Summary | Journal | Homework |
 | --- | --- | --- | --- |
 | Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements]({{page.gdp1}})<br/>_Activity:_ Game Analysis | [Game Elements; Game Design Tools]({{page.journal1}}) | [Read GDP Ch. 2, part 1]({{page.gdp2_1}}) |
-| Jan 27 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | What if #1 | Read GDP Ch. 2, part 2 |
+| Jan 27 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | [What if #1]({{page.journal2}}) | [Read GDP Ch. 2, part 2]({{page.gdp2_2}}) |
 | Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | What if #2 | Read GDP Ch. 3 |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/>_Activity:_ Game Remix Playtest | Action Theory Analysis | Read GDP Ch. 4 |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | What if #3 | Homework |
