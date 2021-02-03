@@ -5,8 +5,11 @@ permalink: "/"
 gdp1: https://docs.google.com/presentation/d/1E8E7TxAeFxOmDoyazL0fbn5K561CgOpTOUmXPjQsrus/edit?usp=sharing
 gdp2_1: https://docs.google.com/presentation/d/1-eAVr5bwAtsD0m29OMCvBXiLKUIH8Uc64Mppg9TIWCI/edit?usp=sharing
 gdp2_2: https://docs.google.com/presentation/d/13VKPplvED1UNX8htx5PvM-1zKF0hvfjIkCYQpJ3cFq0/edit?usp=sharing
+gdp3: https://docs.google.com/presentation/d/1oX47ciZBqUgFvDHa8R91o-8wKZkqzxqjSj9lXpW7m7A/edit?usp=sharing
 journal1: https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954
 journal2: https://canvas.newschool.edu/courses/1552499/discussion_topics/6534236
+journal3: https://canvas.newschool.edu/courses/1552499/discussion_topics/6559155
+activity3: https://docs.google.com/document/d/1EQof7o-a8R0YK_H6SNgtSlFT_UC-xEBFCSOEvfsQEss/edit?usp=sharing
 ---
 
 **Games Design as Play Design**  
@@ -24,11 +27,13 @@ TA: [Allie Xiao](https://alliexiao.squarespace.com/){:target="\_blank"} [(xiaos1
 
 _Abbreviations: GDP (Games, Design, and Play); RoP (Rules of Play)_
 
+Please submit journals by noon the day before class so I can compile questions & references for the class discussion.
+
 | Date | Class Summary | Journal | Homework |
 | --- | --- | --- | --- |
 | Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements]({{page.gdp1}})<br/>_Activity:_ Game Analysis | [Game Elements; Game Design Tools]({{page.journal1}}) | [Read GDP Ch. 2, part 1]({{page.gdp2_1}}) |
 | Jan 27 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | [What if #1]({{page.journal2}}) | [Read GDP Ch. 2, part 2]({{page.gdp2_2}}) |
-| Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | What if #2 | Read GDP Ch. 3 |
+| Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | Read GDP Ch. 3 |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/>_Activity:_ Game Remix Playtest | Action Theory Analysis | Read GDP Ch. 4 |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | What if #3 | Homework |
 | Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | What if #4 | Game #1 Part I |
