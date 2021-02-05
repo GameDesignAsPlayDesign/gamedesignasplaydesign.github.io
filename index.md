@@ -33,7 +33,7 @@ Please submit journals by noon the day before class so I can compile questions &
 | --- | --- | --- | --- |
 | Jan 20 | _Discussion:_ [GDP Ch. 1 - Game Elements]({{page.gdp1}})<br/>_Activity:_ Game Analysis | [Game Elements; Game Design Tools]({{page.journal1}}) | [Read GDP Ch. 2, part 1]({{page.gdp2_1}}) |
 | Jan 27 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Game Analysis | [What if #1]({{page.journal2}}) | [Read GDP Ch. 2, part 2]({{page.gdp2_2}}) |
-| Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | Read GDP Ch. 3 |
+| Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | [Read GDP Ch. 3]({{page.gdp3}}) |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/>_Activity:_ Game Remix Playtest | Action Theory Analysis | Read GDP Ch. 4 |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | What if #3 | Homework |
 | Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | What if #4 | Game #1 Part I |
