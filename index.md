@@ -15,6 +15,8 @@ journal3: https://canvas.newschool.edu/courses/1552499/discussion_topics/6559155
 journal4: https://canvas.newschool.edu/courses/1552499/discussion_topics/6574880
 journal5: https://canvas.newschool.edu/courses/1552499/discussion_topics/6600603
 activity3: https://docs.google.com/document/d/1EQof7o-a8R0YK_H6SNgtSlFT_UC-xEBFCSOEvfsQEss/edit?usp=sharing
+journal6:
+project1: https://gamedesignasplaydesign.github.io/game1
 ---
 
 **Games Design as Play Design**  
@@ -45,11 +47,11 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | [Read GDP Ch. 3]({{page.gdp3}}) |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/> | [Action Theory Analysis]({{page.journal4}}) | [Read GDP Ch. 4]({{page.gdp4}}) |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | [Design Values]({{page.journal5}}) | [Read GDP Ch. 6]({{page.gdp6}}) |
-| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | What if #4 | Game #1 Part I |
-| March 03 | _Discussion:_ GDP Ch 7 - Documenting Your Design, Ch. 9 - Conceptualizing Your Game, Ch. 10 - Prototyping Your Game | Favorite Game | Game #1 Part II |
-| March 10 | _Activity:_ Present game proposals | Reflect on Feedback | Game #1 Part III |
+| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | [Precedent]({{page.journal6}}) | [Game #1 Part I]({{page.project1}}) |
+| March 03 | _Activity:_ Present game proposals | Reflect on Feedback | Game #1 Part II |
+| March 10 | Meetings | Reflect on Feedback | Game #1 Part III<br/>Read GDP Chs. 11, 12 |
 | March 17 | Spring Break | - | - |
-| March 24 | _Discussion:_ GDP Chs 11 - Playtesting Your Game; Ch. 12 - Evaluating Your Game<br/>_Activity:_ Playtest | Reflect on Playtest | Game #1 Part IV |
+| March 24 | _Discussion:_ GDP Ch. 11 - Playtesting Your Game; Ch. 12 - Evaluating Your Game<br/>_Activity:_ Playtest | Reflect on Playtest | Game #1 Part IV |
 | March 31 | _Discussion:_ GDP Ch. 13 - Design to Production Case Studies | New Game | Game #2 Part I |
 | April 07 | _Activity:_ Meetings | Precedent/Influence | Game #2 Part II |
 | April 14 | _Activity:_ Present game proposal | Precedent/Influence | Game #2 Part III; schedule playtest between 4/23-4/29 |
