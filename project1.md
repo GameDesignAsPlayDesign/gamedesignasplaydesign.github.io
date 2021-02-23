@@ -13,24 +13,38 @@ One theme can be turned into many different games. Working from the most popular
 
 _Due March 3_
 
-- kind of play
+Be prepared to give a brief presentation of your game proposal and to discuss each other's games.
+
+Prepare the following slides:
+
+- Name, kind of play
 - what's your design value / the core experience you want your players to have?
+- how do you plan to use game design tools to shape the game elements to serve that experience?
 
 ### Part II: Prototype
 
 _Due March 10_
 
-- what are at least three design questions you would like your prototype to answer? these should be both for yourself and for your players
+- Develop at least three design questions you would like your playtest to answer. These should be both for yourself and for your players.
+- Begin making a prototype that can answer these questions. Have it ready to show during your small-group meeting.
 
 ### Part III: Playtest
 
 _Due March 24_
 
+- Continue developing your prototype so it is ready to playtest in class
+
 ### Part IV: Document
 
 - Add your project to the shared slide deck.
 
-Add the following slides Name, project title, kinds of play; one-line or one-paragraph description A document detailing the rules of your game. Documentation of your mockup 3+ images of your game (including playtest) Optional: video summary of playtest
+Add the following slides:
+
+- Name, project title, kinds of play; one-line or one-paragraph description
+- A document detailing the rules of your game.
+- Documentation of your prototype
+- 3+ images of your game (including playtest)
+- Optional: video summary of playtest
 
 ### Criteria
 
