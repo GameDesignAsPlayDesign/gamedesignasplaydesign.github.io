@@ -7,7 +7,7 @@ documentation_slides:
 
 # Game 1: Theme Jam
 
-One theme can be turned into many different games. Working from the most popular theme as decided during class, design a game with your assigned kinds of play and bring a prototype of it to life via a playtest. Use the constraint in theme to focus on the other game elements and tools.
+One theme can be turned into many different games. Working from your [assigned kind of play](#kindofplay), choose a theme based on the [words](#words) submitted by the class during the last journal. design a game with your assigned kinds of play and bring a prototype of it to life via a playtest. Use the constraint in theme to focus on the other game elements and tools.
 
 ### Part I: Proposal
 
@@ -56,7 +56,7 @@ Add the following slides:
 - There are no other constraints regarding form. You can design a game intended to be a physical boardgame or card game, then create it in Miro/Mural/etc for playtesting.
 - There is no constraint regarding tools. Recommended tools are listed on the class website. I'd recommend looking at the tools that create simple virtual spaces like Hubs or Gather if you want to re-create aspects of an in-person performative game.
 
-### Kind of Play Assignments
+### <a name="kindofplay"></a>Kind of Play Assignments
 
 | Name                 | Kind of Play |
 | -------------------- | ------------ |
@@ -76,3 +76,25 @@ Add the following slides:
 | Xintong Wang         | Cooperative  |
 | Yunnan Xu            | Chance       |
 | Peter Yu             | Experiential |
+
+### <a name="words"></a>Words &amp; Phrases
+
+- Tragicomic puzzle-solving
+- depression, oppression
+- Eerie, Unnerving, Repetitive, Intuitive, Deceptive
+- Untangling disorientation
+- Gently wonderful
+- jazzy sliding-puzzle
+- Cerebrally immersive
+- old-fashion jobs
+- Taylorism
+- Urban planning.
+- Comic, collaboration
+- Romantic, Independence
+- Social stranding, group relations, connection, estrangement, virtual reality
+- bridge
+- fall
+- changing
+- Long Walk
+- Repetitive collection process.
+- Stylized model, storytelling, classic
