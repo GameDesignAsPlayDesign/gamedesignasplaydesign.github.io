@@ -21,20 +21,25 @@ Prepare the following slides:
 - what's your design value / the core experience you want your players to have?
 - how do you plan to use game design tools to shape the game elements to serve that experience?
 
-### Part II: Prototype
+### <a name="ii"></a>Part II: Prototype
 
 _Due March 10_
 
 - Develop at least three design questions you would like your playtest to answer. These should be both for yourself and for your players.
 - Begin making a prototype that can answer these questions. Have it ready to show during your small-group meeting.
 
-### Part III: Playtest
+### <a name="iii"></a>Part III: Playtest
 
-_Due March 24_
+_Due March 31_
 
-- Continue developing your prototype so it is ready to playtest in class
+- Continue developing your prototype to a playtestable state
+- Playtest your game with at least 3 different sets of people
+- Document your playtest
+- Summarize
 
-### Part IV: Document
+### <a name="iv"></a>Part IV: Document
+
+_Due March 31_
 
 - Add your project to the shared slide deck.
 

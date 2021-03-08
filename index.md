@@ -9,6 +9,7 @@ gdp2_2: https://docs.google.com/presentation/d/13VKPplvED1UNX8htx5PvM-1zKF0hvfjI
 gdp3: https://docs.google.com/presentation/d/1oX47ciZBqUgFvDHa8R91o-8wKZkqzxqjSj9lXpW7m7A/edit?usp=sharing
 gdp4: https://docs.google.com/presentation/d/18PL4OhsSy7fK5DR34DRf5OaI99D9mJO7TuB67ex1uwU/edit?usp=sharing
 gdp6: https://docs.google.com/presentation/d/11VUYUiJxqGxReQxlg060XXQFKQ4RrVEp1tk6v4JbVzY/edit?usp=sharing
+gdp_all: https://drive.google.com/drive/folders/1cqkzCECAM-h47x_FZnYKgNeoZpVxOQjg?usp=sharing
 journal1: https://canvas.newschool.edu/courses/1552499/discussion_topics/6508954
 journal2: https://canvas.newschool.edu/courses/1552499/discussion_topics/6534236
 journal3: https://canvas.newschool.edu/courses/1552499/discussion_topics/6559155
@@ -17,6 +18,9 @@ journal5: https://canvas.newschool.edu/courses/1552499/discussion_topics/6600603
 activity3: https://docs.google.com/document/d/1EQof7o-a8R0YK_H6SNgtSlFT_UC-xEBFCSOEvfsQEss/edit?usp=sharing
 journal6:
 project1: https://gamedesignasplaydesign.github.io/game1
+project1_2: https://gamedesignasplaydesign.github.io/game1#ii
+project1_3: https://gamedesignasplaydesign.github.io/game1#iii
+project1_4: https://gamedesignasplaydesign.github.io/game1#iv
 ---
 
 **Games Design as Play Design**  
@@ -47,12 +51,12 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | [Read GDP Ch. 3]({{page.gdp3}}) |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/> | [Action Theory Analysis]({{page.journal4}}) | [Read GDP Ch. 4]({{page.gdp4}}) |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | [Design Values]({{page.journal5}}) | [Read GDP Ch. 6]({{page.gdp6}}) |
-| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | [Precedent]({{page.journal6}}) | [Game #1 Part I]({{page.project1}}) |
-| March 03 | _Activity:_ Present game proposals | Reflect on Feedback | Game #1 Part II |
-| March 10 | Meetings | Reflect on Feedback | Game #1 Part III<br/>Read GDP Chs. 11, 12 |
+| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | [Precedent]({{page.journal6}}) | [Game #1 Part I]({{page.project1}})<br/> Read GDP Ch. 9 |
+| March 03 | _Activity:_ Present game proposals | Reflect on Feedback | [Game #1 Part II]({{page.project1_2}}) |
+| March 10 | Meetings | - | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{gdp_all}}) |
 | March 17 | Spring Break | - | - |
-| March 24 | _Discussion:_ GDP Ch. 11 - Playtesting Your Game; Ch. 12 - Evaluating Your Game<br/>_Activity:_ Playtest | Reflect on Playtest | Game #1 Part IV |
-| March 31 | _Discussion:_ GDP Ch. 13 - Design to Production Case Studies | New Game | Game #2 Part I |
+| March 24 | _Activity:_ Reflect on Playtest | [Game #1 Parts III & IV]({{page.project1_3}}) |
+| March 31 | _Discussion:_ Playtest Reflection | Case Studies | Game #2 Part I<br/>Read GDP. Ch 13 |
 | April 07 | _Activity:_ Meetings | Precedent/Influence | Game #2 Part II |
 | April 14 | _Activity:_ Present game proposal | Precedent/Influence | Game #2 Part III; schedule playtest between 4/23-4/29 |
 | April 21 | _Activity:_ Prototype Playtest | Reflect on Playtest | Game#2 Part IV |
