@@ -56,7 +56,7 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | March 03 | _Activity:_ Present game proposals | - | [Game #1 Part II]({{page.project1_2}}) |
 | March 10 | Meetings | [Reflect on Feedback]({{page.journal7}}) | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{page.gdp_all}}) |
 | March 17 | Spring Break | - | - |
-| March 24 | _Activity:_ Reflect on Playtest | [Game #1 Parts III & IV]({{page.project1_3}}) |
+| March 24 | _Activity:_ Q & A | - | [Game #1 Parts III & IV]({{page.project1_3}}) |
 | March 31 | _Discussion:_ Playtest Reflection | Case Studies | Game #2 Part I<br/>Read GDP. Ch 13 |
 | April 07 | _Activity:_ Meetings | Precedent/Influence | Game #2 Part II |
 | April 14 | _Activity:_ Present game proposal | Precedent/Influence | Game #2 Part III; schedule playtest between 4/23-4/29 |
