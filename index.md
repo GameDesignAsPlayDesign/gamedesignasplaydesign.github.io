@@ -54,7 +54,7 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | [Design Values]({{page.journal5}}) | [Read GDP Ch. 6]({{page.gdp6}}) |
 | Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | [Precedent]({{page.journal6}}) | [Game #1 Part I]({{page.project1}})<br/> Read GDP Ch. 9 |
 | March 03 | _Activity:_ Present game proposals | - | [Game #1 Part II]({{page.project1_2}}) |
-| March 10 | Meetings | [Reflect on Feedback]({{page.journal7}}) | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{gdp_all}}) |
+| March 10 | Meetings | [Reflect on Feedback]({{page.journal7}}) | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{page.gdp_all}}) |
 | March 17 | Spring Break | - | - |
 | March 24 | _Activity:_ Reflect on Playtest | [Game #1 Parts III & IV]({{page.project1_3}}) |
 | March 31 | _Discussion:_ Playtest Reflection | Case Studies | Game #2 Part I<br/>Read GDP. Ch 13 |
