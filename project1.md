@@ -41,7 +41,7 @@ _Due March 31_
 
 _Due March 31_
 
-- Add your project to the shared slide deck.
+- Add your project to the [shared slide deck](https://docs.google.com/presentation/d/1nT_5CP583KB99P5fdRd9pH4n1kq8rY8hPA9rUUbdvF8/edit?usp=sharing).
 
 Add the following slides:
 
