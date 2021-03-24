@@ -33,7 +33,7 @@ _Due March 10_
 _Due March 31_
 
 - Continue developing your prototype to a playtestable state
-- Playtest your game with at least 3 different sets of people
+- Playtest your game with at least 1 set of people from the class and 1 set of people from outside the class
 - Document your playtest
 - Summarize
 
