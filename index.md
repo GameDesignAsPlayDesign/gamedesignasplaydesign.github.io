@@ -18,7 +18,9 @@ journal5: https://canvas.newschool.edu/courses/1552499/discussion_topics/6600603
 activity3: https://docs.google.com/document/d/1EQof7o-a8R0YK_H6SNgtSlFT_UC-xEBFCSOEvfsQEss/edit?usp=sharing
 journal6: https://canvas.newschool.edu/courses/1552499/discussion_topics/6611974
 journal7: https://canvas.newschool.edu/courses/1552499/discussion_topics/6643257
+journal11: https://canvas.newschool.edu/courses/1552499/discussion_topics/6691235
 project1: https://gamedesignasplaydesign.github.io/game1
+project2: https://gamedesignasplaydesign.github.io/game2
 project1_2: https://gamedesignasplaydesign.github.io/game1#ii
 project1_3: https://gamedesignasplaydesign.github.io/game1#iii
 project1_4: https://gamedesignasplaydesign.github.io/game1#iv
@@ -57,7 +59,7 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | March 10 | Meetings | [~~Reflect on Feedback~~]({{page.journal7}}) | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{page.gdp_all}}) |
 | March 17 | Spring Break | - | - |
 | March 24 | _Activity:_ Q & A | - | [Game #1 Parts III & IV]({{page.project1_3}}) |
-| March 31 | _Discussion:_ Playtest Reflection | Case Studies | Game #2 Part I<br/>Read GDP. Ch 13 |
+| March 31 | _Discussion:_ Playtest Reflection | [Inspiration]({{page.journal11}}) | [Game #2 Part I]({{page.project2}})<br/>[Read GDP. Ch 13]{{page.gdp_all}} |
 | April 07 | _Activity:_ Meetings | Precedent/Influence | Game #2 Part II |
 | April 14 | _Activity:_ Present game proposal | Precedent/Influence | Game #2 Part III; schedule playtest between 4/23-4/29 |
 | April 21 | _Activity:_ Prototype Playtest | Reflect on Playtest | Game#2 Part IV |

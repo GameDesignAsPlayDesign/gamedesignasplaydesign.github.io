@@ -17,6 +17,7 @@ header_pages:
   # - week01.md # classes dropdown
   - resources.md
   - project1.md
+  - project2.md
   # projects dropdown
 
 # Build settings
