@@ -13,7 +13,7 @@ For this project, you may work in pairs or in threes.
 
 _For groups of three, you must get approval. Groups of three must provide:_
 
-1.  A set schedule of times where all three members of the group can meetj, at least 3 days per week. You don't necessarily need to Zoom 3x per week, however, you may need to meet at different parts of the week during different phases of the project, like before then during a playtest.
+1.  A set schedule of times where all three members of the group can meet, at least 3 days per week. You don't necessarily need to Zoom 3x per week, however, you may need to meet at different parts of the week during different phases of the project, like before then during a playtest.
 2.  A clear delineation of roles. This does not mean that there can't be overlap between team-members and the delineation doesn't need to be skill-specific; I just need to see what each person is doing and I need to ensure that everyone is doing game design (eg, it is bad if one person just does graphic design and no game design).
 
 ### Part I: Brainstorm
@@ -26,13 +26,17 @@ Think of an experience you want to create for players. This is before you even t
 
 _Due April 14_
 
-Be prepared to give a brief (under five minutes) presentation of your game proposal. We will have time to discuss the proposed games after the presentations
+Be prepared to give a brief (under 10 minutes) presentation of your game proposal. We will have time to discuss the proposed games after the presentations
+
+We will see the presentations together as a class then split into two breakout rooms for discussion.
 
 Prepare the following slides:
 
 - Team name
-- what's your design value / the core experience you want your players to have?
-- how do you plan to use game design tools to shape the game elements to serve that experience?
+- What's your design value &amp; the core experience you want your players to have?
+- How do you plan to use game design tools to shape the game elements to serve that experience?
+- What is your intended prototype or prototypes? What questions do you aim to ask then answer through your prototype?
+- At least three questions you would like to discuss.
 
 ### <a name="ii"></a>Part III: Prototype
 
