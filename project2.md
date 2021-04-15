@@ -16,13 +16,13 @@ _For groups of three, you must get approval. Groups of three must provide:_
 1.  A set schedule of times where all three members of the group can meet, at least 3 days per week. You don't necessarily need to Zoom 3x per week, however, you may need to meet at different parts of the week during different phases of the project, like before then during a playtest.
 2.  A clear delineation of roles. This does not mean that there can't be overlap between team-members and the delineation doesn't need to be skill-specific; I just need to see what each person is doing and I need to ensure that everyone is doing game design (eg, it is bad if one person just does graphic design and no game design).
 
-### Part I: Brainstorm
+### <a name="i"></a>Part I: Brainstorm
 
 _Due April 7_
 
 Think of an experience you want to create for players. This is before you even think about mechanics and specific interactions. Something like, "I want to create an immersive narrative experience that evokes mystery" or "I want someone who uses my app to feel like they're in a fun competition with themselves."
 
-### Part II: Proposal
+### <a name="ii"></a>Part II: Proposal
 
 _Due April 14_
 
@@ -38,14 +38,24 @@ Prepare the following slides:
 - What is your intended prototype or prototypes? What questions do you aim to ask then answer through your prototype?
 - At least three questions you would like to discuss.
 
-### <a name="ii"></a>Part III: Prototype
+### <a name="iii"></a>Part III: Prototype
 
 _Due April 21_
 
-- Noting that you have one week to prototype and playtest, what's a slice of your desired experience that you can put together?
+- Noting that you have one week to prototype and another week to playtest, what's a slice of your desired experience that you can put together?
 - Develop at least three design questions you would like your playtest to answer. These should be both for yourself and for your players.
-- Begin making a prototype that can answer these questions. Have it ready to show during team meeting.
-- Define about how long it will take to playtest the game and how many people can play (minimum and maximum)
+- Begin making a prototype that can answer these questions. Have it ready to show during your team meeting.
+
+_Prototypes, Playtests, & Design Questions_  
+Before holding a playtest, it is important to have questions in mind that you hope to answer through the test. These questions will then inform the prototype that you build and bring to the playtest.
+
+Appropriate design questions could be:
+
+- Does changing XP triggers away from violence without changing the framing story affect players' moral decision-making or does it just lead to a change in the practical calculus?
+- How does ambient noise affect how players play the repurposed instruments? Does it make them less shy? Or is it annoying to compete with outside noise?
+- Is one hour per turn for making a drawing or sound too long (do too many people who want to engage find themselves unable?) or is it necessary to have the deesired depth? Does giving players two days to take a turn make participation easier or is it too hard to continue work from a previous day?
+
+And so on.
 
 ### <a name="iii"></a>Part IV: Playtest & Iterate
 

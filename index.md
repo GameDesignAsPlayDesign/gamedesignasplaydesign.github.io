@@ -20,10 +20,12 @@ journal6: https://canvas.newschool.edu/courses/1552499/discussion_topics/6611974
 journal7: https://canvas.newschool.edu/courses/1552499/discussion_topics/6643257
 journal11: https://canvas.newschool.edu/courses/1552499/discussion_topics/6691235
 project1: https://gamedesignasplaydesign.github.io/game1
-project2: https://gamedesignasplaydesign.github.io/game2
 project1_2: https://gamedesignasplaydesign.github.io/game1#ii
 project1_3: https://gamedesignasplaydesign.github.io/game1#iii
 project1_4: https://gamedesignasplaydesign.github.io/game1#iv
+project2: https://gamedesignasplaydesign.github.io/game2
+project2_2: https://gamedesignasplaydesign.github.io/game2#ii
+project2_3: https://gamedesignasplaydesign.github.io/game2#iii
 ---
 
 **Games Design as Play Design**  
@@ -60,10 +62,10 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | March 17 | Spring Break | - | - |
 | March 24 | _Activity:_ Q & A | - | [Game #1 Parts III & IV]({{page.project1_3}}) |
 | March 31 | _Discussion:_ Playtest Reflection | [Inspiration]({{page.journal11}}) | [Game #2 Part I]({{page.project2}})<br/>[Read GDP. Ch 13]({{page.gdp_all}}) |
-| April 07 | _Activity:_ Meetings | Precedent/Influence | [Game #2 Part II]({{page.project2}}) |
-| April 14 | _Activity:_ Present game proposal | - | Game #2 Part III; schedule playtest between 4/23-4/29 |
-| April 21 | _Activity:_ Prototype Playtest | Reflect on Playtest | Game#2 Part IV |
-| April 28 | _Activity:_ Individual Meetings | Reflect on Playtest | Document game, playtests, and iterations |
+| April 07 | _Activity:_ Meetings | Precedent/Influence | [Game #2 Part II]({{page.project2_2}}) |
+| April 14 | _Activity:_ Present game proposal | - | [Game #2 Part III]({{page.project2_3}}); schedule playtest between 4/21-4/27 |
+| April 21 | _Activity:_ Prototype Meetings | Reflect on Playtest | Game#2 Part IV |
+| April 28 | _Activity:_ Playtest Reflection | Reflect on Playtest | Document game, playtests, and iterations |
 | May 05 | _Activity:_ Present game & playtest reports | :) | :) |
 
 ### Course Description
