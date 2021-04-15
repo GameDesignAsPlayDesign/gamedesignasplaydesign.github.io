@@ -56,13 +56,13 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | Feb 03 | _Discussion:_ GDP Ch. 2 - Basic Game Design Tools<br/>_Activity:_ Writing Rules | [What if #2]({{page.journal3}}) | [Read GDP Ch. 3]({{page.gdp3}}) |
 | Feb 10 | _Discussion:_ GDP Ch. 3 - Kinds of Play<br/> | [Action Theory Analysis]({{page.journal4}}) | [Read GDP Ch. 4]({{page.gdp4}}) |
 | Feb 17 | _Discussion:_ GDP Ch. 4 - Player Experience<br/>_Activity:_ Game Analysis | [Design Values]({{page.journal5}}) | [Read GDP Ch. 6]({{page.gdp6}}) |
-| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | [~~Precedent~~]({{page.journal6}}) | [Game #1 Part I]({{page.project1}})<br/> Read GDP Ch. 9 |
+| Feb 24 | _Discussion:_ GDP Ch. 6 - Design Values; Games & Justice<br/>_Activity:_ Game Design Lightning Round | ~~Precedent~~ | [Game #1 Part I]({{page.project1}})<br/> Read GDP Ch. 9 |
 | March 03 | _Activity:_ Present game proposals | - | [Game #1 Part II]({{page.project1_2}}) |
-| March 10 | Meetings | [~~Reflect on Feedback~~]({{page.journal7}}) | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{page.gdp_all}}) |
+| March 10 | Meetings | ~~Reflect on Feedback~~ | [Game #1 Part III]({{page.project1_3}})<br/>[Read GDP Chs. 10, 11, 12]({{page.gdp_all}}) |
 | March 17 | Spring Break | - | - |
 | March 24 | _Activity:_ Q & A | - | [Game #1 Parts III & IV]({{page.project1_3}}) |
-| March 31 | _Discussion:_ Playtest Reflection | ~Inspiration~ | [Game #2 Part I]({{page.project2}})<br/>[Read GDP. Ch 13]({{page.gdp_all}}) |
-| April 07 | _Activity:_ Meetings | ~Precedent/Influence~ | [Game #2 Part II]({{page.project2_2}}) |
+| March 31 | _Discussion:_ Playtest Reflection | ~~Inspiration~~ | [Game #2 Part I]({{page.project2}})<br/>[Read GDP. Ch 13]({{page.gdp_all}}) |
+| April 07 | _Activity:_ Meetings | ~~Precedent/Influence~~ | [Game #2 Part II]({{page.project2_2}}) |
 | April 14 | _Activity:_ Present game proposal | - | [Game #2 Part III]({{page.project2_3}});<br/>schedule playtest between 4/21-4/27 |
 | April 21 | _Activity:_ Prototype Meetings | Reflect on Playtest | Game#2 Part IV |
 | April 28 | _Activity:_ Playtest Reflection | Reflect on Playtest | Document game, playtests, and iterations |
