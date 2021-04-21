@@ -62,14 +62,35 @@ And so on.
 _Due April 28_
 
 - Continue developing your prototype to a playtestable state
-- Playtest your game with at least 3 different sets of people
+- Playtest your game with at least 2 different sets of people: one internal test with fellow class members; one external test with people outside of class. These tests may be different (for example, groups doing installations should test a prototype of the installation with people IRL, but can test recordings or other documentation of the installation with classmates abroad (or a different aspect of the project - whatever makes sense!))
 - Document your playtest
-- Summarize
+- Summarize what you got out of the playtest.
+  - What aspects of your designed experience worked as expected?
+  - What of your designed experience did not work as expected?
+  - Which, if any, deviations from your imagined experience turned out to be good?
+
+_Internal Playtest Assignments_
+
+| Game | Facilitators | Players |
+| --- | --- | --- |
+| Space | Juliyen | Peter, Xiaofan, Miliaku, Collin |
+| Abandoned Sound | Bowen, Sherry, Xintong | Peter, Xiaofan, Miliaku, Collin |
+| Among Us boardgame | Daniel, Sam | Peter, Xiaofan, Miliaku, Collin |
+| Unravel | Miliaku | Eddie, Bowen, Xintong |
+| Stay/Go | Vincent | Eddie, Bowen, Xintong |
+| Solarpunk 2112 | Collin | Juliyen, Deveena, Vincent |
+| UrLingual | An, Emma | Sherry |
+| Humn | Deveena (+ others) | Sam, Daniel |
+| Untitled | Xiaofan, David | An, Emma |
+| Untitled | Peter | David |
 
 ### <a name="iv"></a>Part V: Playtest & Document
 
 _Due May 5_
 
+- Iterate your design
+- Playtest again
+- Reflect on your playtest again (refer to Part IV)
 - Add your project to the shared slide deck.
 
 Add the following slides:

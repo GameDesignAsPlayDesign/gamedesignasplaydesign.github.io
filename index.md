@@ -64,9 +64,9 @@ Class recordings are archived on [Google Drive]({{page.recordings}}).
 | March 31 | _Discussion:_ Playtest Reflection | ~~Inspiration~~ | [Game #2 Part I]({{page.project2}})<br/>[Read GDP. Ch 13]({{page.gdp_all}}) |
 | April 07 | _Activity:_ Meetings | ~~Precedent/Influence~~ | [Game #2 Part II]({{page.project2_2}}) |
 | April 14 | _Activity:_ Present game proposal | - | [Game #2 Part III]({{page.project2_3}});<br/>schedule playtest between 4/21-4/27 |
-| April 21 | _Activity:_ Prototype Meetings | Reflect on Playtest | Game#2 Part IV |
-| April 28 | _Activity:_ Playtest Reflection | Reflect on Playtest | Document game, playtests, and iterations |
-| May 05 | _Activity:_ Present game & playtest reports | :) | :) |
+| April 21 | _Activity:_ Prototype Meetings | Reflect on Playtest #1 | Game#2 Part IV |
+| April 28 | _Activity:_ Playtest Reflection | Reflect on Playtest #2 | Document game, playtests, and iterations |
+| May 05 | _Activity:_ Present game & design, testing, &amp; iteration process | :) | :) |
 
 ### Course Description
 
