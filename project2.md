@@ -57,7 +57,7 @@ Appropriate design questions could be:
 
 And so on.
 
-### <a name="iii"></a>Part IV: Playtest & Iterate
+### <a name="iv"></a>Part IV: Playtest & Iterate
 
 _Due April 28_
 
@@ -84,7 +84,7 @@ _Internal Playtest Assignments_
 | Untitled | Xiaofan, David | An, Emma |
 | Untitled | Peter | David |
 
-### <a name="iv"></a>Part V: Playtest & Document
+### <a name="v"></a>Part V: Playtest & Document
 
 _Due May 5_
 
