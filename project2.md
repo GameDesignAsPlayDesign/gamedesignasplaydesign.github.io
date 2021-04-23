@@ -2,6 +2,7 @@
 layout: page
 title: "Game 2: Playful Practice"
 permalink: /game2/
+project2_slides_proposal: https://docs.google.com/presentation/d/1DVVLiS2xLG2N3rU_oCmuMUvPLxtL-UENgTDEz0SZYYw/edit?usp=sharing
 documentation_slides:
 ---
 
@@ -62,12 +63,42 @@ And so on.
 _Due April 28_
 
 - Continue developing your prototype to a playtestable state
+- Add your proposal slides to the [shared deck]({{page.project2_slides_proposal}})
 - Playtest your game with at least 2 different sets of people: one internal test with fellow class members; one external test with people outside of class. These tests may be different (for example, groups doing installations should test a prototype of the installation with people IRL, but can test recordings or other documentation of the installation with classmates abroad (or a different aspect of the project - whatever makes sense!))
 - Document your playtest
-- Summarize what you got out of the playtest.
-  - What aspects of your designed experience worked as expected?
-  - What of your designed experience did not work as expected?
-  - Which, if any, deviations from your imagined experience turned out to be good?
+
+_Post-playtest Interview_  
+After a playtest, you will want to talk to your players to see how they responded to your game.
+
+Example questions:
+
+- How did this game make you feel?
+- What did you most like?
+- What did you least like?
+- Would you play again?
+- Is there anything else you would like to say?
+
+You should add interview questions that pertain to any questions you wanted to answer through your playtesting process.
+
+_Playtest Reflection_  
+Consider these questions:
+
+- What aspects of your designed experience worked as expected?
+- What of your designed experience did not work as expected?
+- Which, if any, deviations from your intended experience turned out to be good?
+- What did players find easy to understand?
+- What did players find difficult to understand?
+- What did players do that you didn't expect?
+- What did players do that you did expect?
+- Were there rules that were unnecessary?
+- Did you feel like any rules were missing?
+
+Then reflect:
+
+- What are some potential solutions to problems you identified?
+- What are potential changes you could make to amplify the successful aspects of your game?
+- What are possible changes to the realized form of your game (its prototypal manifestation)?
+- What do you see as the most important changes to make and why? (As in, there are a million things we could change in any project, so what changes are you prioritizing for your updated prototype for your second playtest?)
 
 _Internal Playtest Assignments_
 
